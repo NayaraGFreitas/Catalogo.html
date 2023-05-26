@@ -1,0 +1,71 @@
+.capa {
+  background-size: cover;
+  background-position: center;
+  height: 600px; 
+  text-align: center;
+  color: black;
+}
+
+.conteudo-capa {
+  padding-top: 100px; 
+}
+
+h1 {
+  font-size: 80px;
+  margin-bottom: 40px;
+  font-family: 'DM Serif Display', serif;
+}
+
+p {
+  font-size: 35px;
+  font-family: 'Great Vibes', cursive;
+}
+
+
+
+.imagem {background-image: url("https://img.freepik.com/fotos-gratis/close-up-de-uma-parede-texturizada-de-marmore-branco_53876-139849.jpg?w=1060&t=5000st=1684605594~exp=1684606194~hmac=19c52d0c95dec6f29969962c1773cfc2401fe668c66de8f7670dbc0789f7c50d");
+  background-size: cover;
+
+
+}
+
+.titulo {font-family: 'Great Vibes', cursive;
+font-size: 60px;
+
+}
+
+.texto {font-family:'Rajdhani', sans-serif;
+font-size: 19px;
+text-align: left;
+}
+
+.perfume {font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .descrição {
+    margin-left: 10px;
+  }
+
+  .k {font-family:'Dosis', sans-serif;
+    font-size: 23px;
+ }
+
+ .p {font-family:'Dosis', sans-serif;
+    font-size: 30px;}
+
+.t  {
+    font-family:'Dosis', sans-serif;
+    font-size: 22px;
+}
+
+.número {
+  font-family:'Dosis', sans-serif;
+    font-size: 15px;
+}
